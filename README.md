@@ -1,2 +1,2 @@
 # samantha.github.com
-texting
+text
